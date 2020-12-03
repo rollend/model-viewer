@@ -1,0 +1,15 @@
+commit 37291e0dde748dae2c6586364989caad3157b00c
+Author: Emmett Lalish <elalish@google.com>
+Date:   Thu Dec 3 14:55:33 2020 -0800
+
+    Rotate environment example (#1741)
+    
+    * pull in example
+    
+    * added toString() method and fixed example
+    
+    * update docs
+    
+    * refactor animation tests
+    
+    * fix test
